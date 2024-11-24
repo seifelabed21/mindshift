@@ -1,8 +1,8 @@
-# Hackathon Project: Authentication App
+# Hackathon Project: Mental Health Website
 
 ## Overview
 
-This project is a simple authentication application built with React, featuring a **Login** and **Sign Up** page. The app uses modern design principles with Tailwind CSS for styling and is fully responsive.
+This project is a simple Mental Health Website built with React, featuring a **Login** and **Sign Up** page. The website uses modern design principles with Tailwind CSS for styling and is fully responsive.
 
 ---
 
